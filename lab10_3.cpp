@@ -8,6 +8,7 @@ using namespace std;
 
 int main(){
 
+    //halo
     ifstream source;
     source.open("score.txt");
 
